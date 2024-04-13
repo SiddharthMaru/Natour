@@ -1,0 +1,25 @@
+# Node.js
+node_modules
+
+# Logs
+logs
+*.log
+
+# Build output
+dist/
+build/
+out/
+public/
+
+# Environment files
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
